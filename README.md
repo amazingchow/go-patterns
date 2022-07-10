@@ -25,6 +25,7 @@ A curated collection of idiomatic design & application patterns for Go language.
 
 | Pattern | Description | Status |
 |:-------:|:----------- |:------:|
+| [Adapter](/structural/adapter.md) | Allows objects with incompatible interfaces to collaborate. | ✘ |
 | [Bridge](/structural/bridge.md) | Decouples an interface from its implementation so that the two can vary independently | ✘ |
 | [Composite](/structural/composite.md) | Encapsulates and provides access to a number of different objects | ✘ |
 | [Decorator](/structural/decorator.md) | Adds behavior to an object, statically or dynamically | ✔ |
