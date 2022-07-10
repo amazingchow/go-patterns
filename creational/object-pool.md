@@ -1,6 +1,6 @@
 # Object Pool Pattern
 
-The object pool creational design pattern is used to prepare and keep multiple
+Object pool creational design pattern (alse called prototype pattern) is used to prepare and keep multiple
 instances according to the demand expectation.
 
 ## Implementation
